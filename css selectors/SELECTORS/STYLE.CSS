@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+h1{
+    color: blue;text-align: center;font-size:100px;
+}
+p{
+    color: black;
+      text-align:center;font-size:80px;
+}
+h1:hover{
+    color:orange;
+    font-weight:400;
+}
+body{
+    background-color:lightblue;
+}
+p:hover{
+    color:rgb(21, 222, 62);
+    text-align:center;
+}
