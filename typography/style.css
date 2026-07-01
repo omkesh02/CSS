@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#f4f4f4;
+    padding:30px;
+    line-height:1.8;
+}
+
+h1{
+    font-family:Georgia, serif;
+    text-align:center;
+    color:darkblue;
+    margin-bottom:30px;
+}
+
+.intro{
+    font-family:Arial, sans-serif;
+    font-size:20px;
+    margin-bottom:25px;
+}
+
+.taj{
+    font-family:"Times New Roman", serif;
+}
+
+.gateway{
+    font-family:Verdana, sans-serif;
+}
+
+.charminar{
+    font-family:Tahoma, sans-serif;
+}
+
+.indiagate{
+    font-family:"Trebuchet MS", sans-serif;
+}
+
+.golden{
+    font-family:Garamond, serif;
+}
+
+.konark{
+    font-family:"Palatino Linotype", serif;
+}
+
+.kerala{
+    font-family:"Comic Sans MS", cursive;
+}
+
+.himalaya{
+    font-family:"Courier New", monospace;
+}
+
+.conclusion{
+    font-family:Georgia, serif;
+    color:darkred;
+    margin-top:30px;
+}
+
+.last{
+    font-family:"Lucida Sans Unicode", sans-serif;
+    margin-top:10px;
+}
+
+.quote{
+    font-family:"Brush Script MT", cursive;
+    font-size:32px;
+    text-align:center;
+    color:green;
+    margin-top:30px;
+}
+
+section{
+    background:white;
+    margin:20px 0;
+    padding:20px;
+    border-left:6px solid royalblue;
+    border-radius:8px;
+}
+
+h2{
+    margin-bottom:10px;
+}
