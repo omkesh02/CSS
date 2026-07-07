@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color:#38bdf8;
+    --secondary-color:#ffffff;
+    --background-color:#000000;
+
+    --letter-spaceing:2px;
+}
+
+body{
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+}
+
+h1{
+    color:var(--primary-color);
+    letter-spacing: var(--letter-spaceing);
+}
